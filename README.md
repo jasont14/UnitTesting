@@ -3,6 +3,8 @@ Unit Testing C# Microsoft Visual Studio 2017
 
 Bank Account with an Account interface that a Checking Account derives from to create simple app with the following:
 
+# Methods and Properties
+
 Withdraw - Remove from account.  Cannot be negative
 
 Deposit - Add to account.  Cannot be negative.
